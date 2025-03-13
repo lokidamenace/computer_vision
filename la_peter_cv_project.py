@@ -14,7 +14,7 @@ Title: Build My Own ‘Google Translate’ for Food Menus in Vietnamese
 
 Date: March 10, 2025
 
-Purpose: Use OCR identifies the Vietnamese words in images.
+Purpose: Use OCR to identify the Vietnamese words in images.
 
 Input: images of Vietnamese menus
 
