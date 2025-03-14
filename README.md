@@ -20,3 +20,5 @@ After training and testing, the model’s performance was evaluated, and finding
 
 Next steps involve expanding the dataset to include a broader variety of Vietnamese menu formats, refining text post-processing techniques to correct OCR-generated errors, and deploying the model into a real-world application, such as a mobile app or web-based tool. Additionally, real-world testing in Vietnamese restaurants will be conducted to validate the model’s usability and effectiveness. By continuing to refine and enhance this system, the project aims to create a practical and efficient solution for restaurant-goers seeking seamless menu translations.
 
+### Link to presentation: https://youtu.be/9dcOTDTs2Ds
+
